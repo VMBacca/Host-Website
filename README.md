@@ -13,9 +13,9 @@
   
  <h2>Features</h2>
    
-   <ul list-style="none">
-  <li> :open_file_folder: Multi-Page Layout; </li>
-  <li> :art: Styled with CSS3;</li>
-  <li> :iphone: Responsive. </li>
+   <ul>
+  <li list-style="none"> :open_file_folder: Multi-Page Layout; </li>
+  <li list-style="none"> :art: Styled with CSS3;</li>
+  <li list-style="none"> :iphone: Responsive. </li>
    </ul>
    
