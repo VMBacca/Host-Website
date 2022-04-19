@@ -13,7 +13,7 @@
   
  <h2>Features</h2>
    
-   <ul>
+   <ul list-style="none">
   <li> :open_file_folder: Multi-Page Layout; </li>
   <li> :art: Styled with CSS3;</li>
   <li> :iphone: Responsive. </li>
