@@ -5,6 +5,8 @@
   
   <p>Projects developed as a learning tool in the use of **CSS**</p>
   
+  <p align="center"><img src=https://user-images.githubusercontent.com/102605061/164043853-ecaa84fe-2364-4b28-a9e3-dfb4b4d8aa1e.gif> <p>
+  
 <h2>Built With</h2>
   
   * Node.js
