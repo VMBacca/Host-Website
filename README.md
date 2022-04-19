@@ -5,7 +5,7 @@
   
   <p>Projects developed as a learning tool in the use of **CSS**</p>
   
-<h2>Built With</p>
+<h2>Built With</h2>
   
   * Node.js
   * CSS3
