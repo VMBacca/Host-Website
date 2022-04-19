@@ -14,8 +14,8 @@
  <h2>Features</h2>
    
   
-   :open_file_folder: Multi-Page Layout;
-   :art: Styled with CSS3;
-   :iphone: Responsive.
+  **:open_file_folder: Multi-Page Layout;**
+  **:art: Styled with CSS3;**
+  **:iphone: Responsive.**
   
    
