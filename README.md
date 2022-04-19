@@ -2,12 +2,12 @@
   
   Projects developed as a learning tool in the use of **CSS**.
   
-<h2>Built With<h2>
+##Built With
   *Node.js
   *CSS3
   *VsCode
   
- <h2>Features<h2>
+ ##Features
    
    :open_file_folder:Multi-Page Layout
    
